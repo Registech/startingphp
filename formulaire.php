@@ -14,6 +14,7 @@
 			    }    
 		</style>
 		<form enctype="multipart/form-data" action="user.php" method="post">
+		<form action="" method='post'>
 		    <fieldset>
 		        <legend>Formulaire</legend>
 		            <p>
